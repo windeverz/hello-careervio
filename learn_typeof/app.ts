@@ -4,7 +4,7 @@ let b = "ABC";
 let c = 113113;
 let d = null;
 let e = "";
-// let f = 13qed; 
+// let f = 13qed; // error
 
 console.log(typeof a);  // boolean
 console.log(typeof b);  // string
